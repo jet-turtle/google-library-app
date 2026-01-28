@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Library</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="back">Back</string>
+</resources>
