@@ -139,7 +139,7 @@ fun BooksTopAppBar(
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(16.dp)
-                        .height(52.dp)
+                        .height(54.dp)
                         .focusRequester(focusRequester),
                     placeholder = {
                         Text(
