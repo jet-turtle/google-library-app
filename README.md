@@ -16,4 +16,4 @@ Screenshots
 
 | Main Screen | Detail Screen |
 | :---: | :---: |
-| ![Main](screenshots/google_library.jpg) | ![Create](screenshots/google_library_2.jpg) |
+| ![Main](screenshots/google_library.jpg) | ![Detail](screenshots/google_library_2.jpg) |
